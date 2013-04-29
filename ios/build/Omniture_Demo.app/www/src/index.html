@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="http://192.168.11.8:8080/target/target-script-min.js#anonymous"></script>
+
+    <meta charset="utf-8" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+    <link rel="stylesheet" type="text/css" href="css/jquery.mobile.flatui.css" />
+    <link rel="stylesheet" type="text/css" href="css/app.css" />
+
+    <title>Hello World</title>
+</head>
+<body class='ui-mobile-viewport ui-overlay-c'>
+
+
+
+
+    <!-- login -->
+    <div data-role="page" id="home">
+        <div class="ui-content" data-role="content" role="main">
+            <div style="text-align: center;">
+                <img src="./images/logo.png">
+            </div>
+            <ul data-role="listview" data-inset="true">
+                <li data-shadow="false" data-role="list-divider" data-theme="e" role="heading">Login</li>
+                <li>
+                    <input type="text" placeholder="User" value=""  data-theme="a" />
+                    <input name="password" data-theme="a" placeholder="Password" value="" type="password"></li>
+                </ul>
+                <a data-transition="pop" data-role='button' data-theme="a"  href="#demo">
+                    Submit
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <!-- demo -->
+    <div data-role="page" id="demo">
+
+        <div class="ui-header ui-bar-a" data-swatch="" data-theme="a" data-form="ui-bar-a" data-role="header" role="banner">
+            <a data-rel="back" data-transition='reverse' data-iconpos="notext" data-role="button" data-icon="back" title="Back">Back</a>
+
+            <h1 class="ui-title" tabindex="0" role="heading" aria-level="1">Admissions</h1>
+        </div>
+        <div class="ui-content ui-body-a" data-theme="a" data-form="ui-body-a" data-role="content" role="demo">
+
+
+            <h1>Demo inputs</h1>
+            <form action="#" data-ajax="false">
+            <div data-role="fieldcontain">
+                <fieldset data-role="controlgroup">
+                    <input type="radio" name="radio-choice-a" id="radio-choice-1-a" value="second" checked="checked" />
+                    <label for="radio-choice-1-a" data-form="ui-btn-up-a">Radio</label> 
+                    
+                    <input type="radio" name="radio-choice-a" id="radio-choice-1-b" value="first" />
+                    <label for="radio-choice-1-b" data-form="ui-btn-up-a">Radio2 </label>
+
+                    <input type="checkbox" name="checkbox-a" id="checkbox-a" checked="checked" />
+                    <label for="checkbox-a" data-form="ui-btn-up-a">Checkbox</label>
+
+                </fieldset>
+            </div>
+
+            <div data-role="fieldcontain">
+                <fieldset data-role="controlgroup" data-type="horizontal">
+                    <input type="radio" name="radio-view-a" id="radio-view-a-a" value="list" checked="checked"/>
+                    <label for="radio-view-a-a" data-form="ui-btn-up-a">On</label>
+                    <input type="radio" name="radio-view-a" id="radio-view-b-a" value="grid"  />
+                    <label for="radio-view-b-a" data-form="ui-btn-up-a">Off</label>
+                </fieldset>
+            </div>
+
+            <div data-role="fieldcontain">
+                <select name="select-choice" id="select-choice-a" data-native-menu="false" data-theme="a" data-form="ui-btn-up-a">
+                    <option value="one">Option 1</option>
+                    <option value="two">Option 2</option>
+                    <option value="three">Option 3</option>
+                    <option value="four">Option 4</option>
+                </select>
+            </div>
+
+
+             <button type='submit' name='cool_button' data-icon="star" data-theme="a" data-form="ui-btn-up-a">Button</button>
+            </form>
+        </div>
+
+    </div>
+</div>
+</div>
+
+
+<script type="text/javascript" src="../cordova-2.7.0.js"></script>
+<script type="text/javascript" src="../ADMS_Helper.js"></script>
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+<script type="text/javascript" src="js/jquery.mobile-1.3.1.min.js"></script>
+<script type="text/javascript">
+
+$(document).bind("pageinit", function () {
+   app.initialize()
+});
+// document.addEventListener('deviceready', function () {
+//     console.log('device')
+// }, false);
+ 
+</script>
+</body>
+</html>

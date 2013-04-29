@@ -1,0 +1,441 @@
+2013-04-25 13:36:18.443 Omniture_Demo[3145:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 13:36:18.448 Omniture_Demo[3145:18e03] ERROR: Start Page at 'www/index.html' was not found.
+2013-04-25 13:36:18.499 Omniture_Demo[3145:18e03] Resetting plugins due to page load.
+2013-04-25 13:36:18.511 Omniture_Demo[3145:18e03] Finished load of: about:blank
+2013-04-25 13:39:41.714 Omniture_Demo[3431:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 13:39:41.721 Omniture_Demo[3431:18e03] ERROR: Start Page at 'www/index.html' was not found.
+2013-04-25 13:39:41.765 Omniture_Demo[3431:18e03] Resetting plugins due to page load.
+2013-04-25 13:39:41.778 Omniture_Demo[3431:18e03] Finished load of: about:blank
+2013-04-25 13:40:32.029 Omniture_Demo[3760:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 13:40:32.077 Omniture_Demo[3760:18e03] Resetting plugins due to page load.
+2013-04-25 13:40:32.140 Omniture_Demo[3760:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/D203220E-B809-4EA1-A157-6FE15B4AFCDE/Omniture_Demo.app/www/src/index.html
+2013-04-25 13:40:32.154 Omniture_Demo[3760:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-25 13:40:32.162 Omniture_Demo[3760:18e03] Received Event: deviceready
+2013-04-25 15:20:40.997 Omniture_Demo[15869:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 15:20:41.448 Omniture_Demo[15869:18e03] Resetting plugins due to page load.
+2013-04-25 15:20:41.810 Omniture_Demo[15869:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-25 15:20:42.205 Omniture_Demo[15869:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/CCA0440D-9EF9-4EFE-9232-E08AC8E1CE30/Omniture_Demo.app/www/src/index.html
+2013-04-25 15:26:14.601 Omniture_Demo[16079:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 15:26:14.651 Omniture_Demo[16079:18e03] Resetting plugins due to page load.
+2013-04-25 15:26:14.709 Omniture_Demo[16079:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-25 15:26:15.010 Omniture_Demo[16079:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/CCA0440D-9EF9-4EFE-9232-E08AC8E1CE30/Omniture_Demo.app/www/src/index.html
+2013-04-25 15:28:55.803 Omniture_Demo[16563:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 15:28:55.860 Omniture_Demo[16563:18e03] Resetting plugins due to page load.
+2013-04-25 15:28:55.952 Omniture_Demo[16563:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-25 15:28:56.204 Omniture_Demo[16563:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/CCA0440D-9EF9-4EFE-9232-E08AC8E1CE30/Omniture_Demo.app/www/src/index.html
+2013-04-25 15:30:56.141 Omniture_Demo[16835:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 15:30:56.197 Omniture_Demo[16835:18e03] Resetting plugins due to page load.
+2013-04-25 15:30:56.280 Omniture_Demo[16835:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-25 15:30:56.529 Omniture_Demo[16835:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/CCA0440D-9EF9-4EFE-9232-E08AC8E1CE30/Omniture_Demo.app/www/src/index.html
+2013-04-25 15:33:02.974 Omniture_Demo[16936:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 15:33:03.049 Omniture_Demo[16936:18e03] Resetting plugins due to page load.
+2013-04-25 15:33:03.168 Omniture_Demo[16936:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-25 15:33:03.408 Omniture_Demo[16936:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/CCA0440D-9EF9-4EFE-9232-E08AC8E1CE30/Omniture_Demo.app/www/src/index.html
+2013-04-25 15:33:43.091 Omniture_Demo[17167:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 15:33:43.179 Omniture_Demo[17167:18e03] Resetting plugins due to page load.
+2013-04-25 15:33:43.404 Omniture_Demo[17167:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-25 15:33:43.527 Omniture_Demo[17167:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/CCA0440D-9EF9-4EFE-9232-E08AC8E1CE30/Omniture_Demo.app/www/src/index.html
+2013-04-25 16:24:56.289 Omniture_Demo[19102:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 16:24:56.328 Omniture_Demo[19102:18e03] Resetting plugins due to page load.
+2013-04-25 16:24:56.646 Omniture_Demo[19102:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-25 16:24:56.655 Omniture_Demo[19102:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/CCA0440D-9EF9-4EFE-9232-E08AC8E1CE30/Omniture_Demo.app/www/src/index.html
+2013-04-25 16:32:18.553 Omniture_Demo[19551:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 16:32:18.612 Omniture_Demo[19551:18e03] Resetting plugins due to page load.
+2013-04-25 16:32:18.815 Omniture_Demo[19551:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-25 16:32:18.956 Omniture_Demo[19551:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/CCA0440D-9EF9-4EFE-9232-E08AC8E1CE30/Omniture_Demo.app/www/src/index.html
+2013-04-25 16:41:47.459 Omniture_Demo[19551:18e03] CDVWebViewDelegate: Navigation started when state=1
+2013-04-25 16:41:47.460 Omniture_Demo[19551:18e03] Failed to load webpage with error: (null)
+2013-04-25 22:52:56.008 Omniture_Demo[38674:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 22:52:56.055 Omniture_Demo[38674:18e03] Resetting plugins due to page load.
+2013-04-25 22:52:56.247 Omniture_Demo[38674:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 22:54:17.707 Omniture_Demo[38941:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 22:54:17.754 Omniture_Demo[38941:18e03] Resetting plugins due to page load.
+2013-04-25 22:54:17.976 Omniture_Demo[38941:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 22:57:56.615 Omniture_Demo[39096:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 22:57:56.684 Omniture_Demo[39096:18e03] Resetting plugins due to page load.
+2013-04-25 22:57:56.875 Omniture_Demo[39096:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 22:59:04.973 Omniture_Demo[39156:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 22:59:05.031 Omniture_Demo[39156:18e03] Resetting plugins due to page load.
+2013-04-25 22:59:05.233 Omniture_Demo[39156:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 22:59:46.345 Omniture_Demo[39156:18e03] CDVWebViewDelegate: Navigation started when state=1
+2013-04-25 22:59:46.346 Omniture_Demo[39156:18e03] Failed to load webpage with error: (null)
+2013-04-25 22:59:48.208 Omniture_Demo[39201:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 22:59:48.257 Omniture_Demo[39201:18e03] Resetting plugins due to page load.
+2013-04-25 22:59:48.468 Omniture_Demo[39201:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 23:00:08.787 Omniture_Demo[39347:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 23:00:08.837 Omniture_Demo[39347:18e03] Resetting plugins due to page load.
+2013-04-25 23:00:09.022 Omniture_Demo[39347:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 23:02:39.383 Omniture_Demo[39440:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 23:02:39.563 Omniture_Demo[39440:18e03] Resetting plugins due to page load.
+2013-04-25 23:02:39.778 Omniture_Demo[39440:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 23:25:24.640 Omniture_Demo[40473:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 23:25:24.704 Omniture_Demo[40473:18e03] Resetting plugins due to page load.
+2013-04-25 23:25:24.908 Omniture_Demo[40473:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 23:27:12.852 Omniture_Demo[40549:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 23:27:12.915 Omniture_Demo[40549:18e03] Resetting plugins due to page load.
+2013-04-25 23:27:13.095 Omniture_Demo[40549:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 23:32:04.959 Omniture_Demo[40731:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 23:32:05.027 Omniture_Demo[40731:18e03] Resetting plugins due to page load.
+2013-04-25 23:32:05.222 Omniture_Demo[40731:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 23:32:20.658 Omniture_Demo[40961:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 23:32:20.713 Omniture_Demo[40961:18e03] Resetting plugins due to page load.
+2013-04-25 23:32:20.899 Omniture_Demo[40961:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 23:32:40.387 Omniture_Demo[40961:18e03] CDVWebViewDelegate: Navigation started when state=1
+2013-04-25 23:32:40.388 Omniture_Demo[40961:18e03] Failed to load webpage with error: (null)
+2013-04-25 23:42:18.513 Omniture_Demo[41565:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 23:42:18.567 Omniture_Demo[41565:18e03] Resetting plugins due to page load.
+2013-04-25 23:42:18.746 Omniture_Demo[41565:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 23:46:48.989 Omniture_Demo[41935:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 23:46:49.035 Omniture_Demo[41935:18e03] Resetting plugins due to page load.
+2013-04-25 23:46:49.241 Omniture_Demo[41935:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-25 23:56:57.183 Omniture_Demo[42511:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-25 23:56:57.228 Omniture_Demo[42511:18e03] Resetting plugins due to page load.
+2013-04-25 23:56:57.407 Omniture_Demo[42511:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 00:02:00.997 Omniture_Demo[42807:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 00:02:01.059 Omniture_Demo[42807:18e03] Resetting plugins due to page load.
+2013-04-26 00:02:01.231 Omniture_Demo[42807:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 00:04:21.455 Omniture_Demo[43111:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 00:04:21.507 Omniture_Demo[43111:18e03] Resetting plugins due to page load.
+2013-04-26 00:04:21.733 Omniture_Demo[43111:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 00:23:11.222 Omniture_Demo[43813:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 00:23:11.308 Omniture_Demo[43813:18e03] Resetting plugins due to page load.
+2013-04-26 00:23:11.511 Omniture_Demo[43813:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 00:24:32.400 Omniture_Demo[44074:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 00:24:32.456 Omniture_Demo[44074:18e03] Resetting plugins due to page load.
+2013-04-26 00:24:32.646 Omniture_Demo[44074:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:01:15.966 Omniture_Demo[45456:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:01:16.063 Omniture_Demo[45456:18e03] Resetting plugins due to page load.
+2013-04-26 01:01:16.536 Omniture_Demo[45456:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:20:36.630 Omniture_Demo[46583:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:20:36.695 Omniture_Demo[46583:18e03] Resetting plugins due to page load.
+2013-04-26 01:20:36.894 Omniture_Demo[46583:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:25:57.042 Omniture_Demo[47146:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:25:57.088 Omniture_Demo[47146:18e03] Resetting plugins due to page load.
+2013-04-26 01:25:57.253 Omniture_Demo[47146:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:26:27.856 Omniture_Demo[47382:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:26:27.902 Omniture_Demo[47382:18e03] Resetting plugins due to page load.
+2013-04-26 01:26:28.095 Omniture_Demo[47382:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:28:12.369 Omniture_Demo[47661:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:28:12.372 Omniture_Demo[47661:18e03] *** Assertion failure in -[CDVConfigParser parser:parseErrorOccurred:], /Library/WebServer/Documents/Edify/Clickstream/APUS/omniture_demo/ios/CordovaLib/Classes/CDVConfigParser.m:67
+2013-04-26 01:28:12.535 Omniture_Demo[47661:18e03] *** Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'config.xml parse error line 64 col 46'
+*** First throw call stack:
+(0x16b012 0x25e4e7e 0x16ae78 0x11bd665 0x770f2 0x1205a08 0x58a72af 0x58c1745 0x58c925a 0x58cb4e5 0x58caf07 0x12058fe 0x1205890 0x1205b46 0x1205bfa 0x57c62 0x56a30 0x56afe 0x3179 0x485e1e 0x56bbe 0x31dd 0x2c9b 0x3a4157 0x3a4747 0x3a594b 0x3b6cb5 0x3b7beb 0x3a9698 0x3416df9 0x3416ad0 0xe0bf5 0xe0962 0x111bb6 0x110f44 0x110e1b 0x3a517a 0x3a6ffc 0x297c 0x28d5)
+libc++abi.dylib: terminate called throwing an exception
+2013-04-26 01:30:34.263 Omniture_Demo[47993:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:30:34.309 Omniture_Demo[47993:18e03] Resetting plugins due to page load.
+2013-04-26 01:30:34.470 Omniture_Demo[47993:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:31:49.605 Omniture_Demo[48264:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:31:49.663 Omniture_Demo[48264:18e03] Resetting plugins due to page load.
+2013-04-26 01:31:49.831 Omniture_Demo[48264:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:32:18.783 Omniture_Demo[48501:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:32:18.832 Omniture_Demo[48501:18e03] Resetting plugins due to page load.
+2013-04-26 01:32:19.019 Omniture_Demo[48501:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:40:50.900 Omniture_Demo[49099:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:40:50.946 Omniture_Demo[49099:18e03] Resetting plugins due to page load.
+2013-04-26 01:40:51.141 Omniture_Demo[49099:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:41:31.383 Omniture_Demo[49342:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:41:31.440 Omniture_Demo[49342:18e03] Resetting plugins due to page load.
+2013-04-26 01:41:31.625 Omniture_Demo[49342:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:41:34.710 Omniture_Demo[49368:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:41:34.758 Omniture_Demo[49368:18e03] Resetting plugins due to page load.
+2013-04-26 01:41:34.924 Omniture_Demo[49368:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:41:37.929 Omniture_Demo[49394:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:41:37.994 Omniture_Demo[49394:18e03] Resetting plugins due to page load.
+2013-04-26 01:41:38.189 Omniture_Demo[49394:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:42:25.745 Omniture_Demo[49836:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:42:25.792 Omniture_Demo[49836:18e03] Resetting plugins due to page load.
+2013-04-26 01:42:25.977 Omniture_Demo[49836:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:42:46.802 Omniture_Demo[49870:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:42:46.856 Omniture_Demo[49870:18e03] Resetting plugins due to page load.
+2013-04-26 01:42:47.093 Omniture_Demo[49870:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 01:43:01.440 Omniture_Demo[50115:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 01:43:01.508 Omniture_Demo[50115:18e03] Resetting plugins due to page load.
+2013-04-26 01:43:01.687 Omniture_Demo[50115:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 02:01:40.213 Omniture_Demo[54168:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 02:01:40.469 Omniture_Demo[54168:18e03] Resetting plugins due to page load.
+2013-04-26 02:01:40.647 Omniture_Demo[54168:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 02:02:45.977 Omniture_Demo[54435:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 02:02:46.037 Omniture_Demo[54435:18e03] Resetting plugins due to page load.
+2013-04-26 02:02:46.235 Omniture_Demo[54435:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 10:44:51.051 Omniture_Demo[59714:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 10:44:51.320 Omniture_Demo[59714:18e03] Resetting plugins due to page load.
+2013-04-26 10:44:52.131 Omniture_Demo[59714:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+Terminating in response to SpringBoard's termination.
+2013-04-26 23:28:35.993 Omniture_Demo[70289:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 23:28:36.192 Omniture_Demo[70289:18e03] Resetting plugins due to page load.
+2013-04-26 23:28:36.845 Omniture_Demo[70289:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 23:30:20.559 Omniture_Demo[70579:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 23:30:20.644 Omniture_Demo[70579:18e03] Resetting plugins due to page load.
+2013-04-26 23:30:21.364 Omniture_Demo[70579:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 23:34:52.807 Omniture_Demo[70723:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 23:34:52.943 Omniture_Demo[70723:18e03] Resetting plugins due to page load.
+2013-04-26 23:34:53.671 Omniture_Demo[70723:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 23:35:33.365 Omniture_Demo[70965:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 23:35:33.461 Omniture_Demo[70965:18e03] Resetting plugins due to page load.
+2013-04-26 23:35:34.027 Omniture_Demo[70965:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 23:36:34.736 Omniture_Demo[71209:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 23:36:34.834 Omniture_Demo[71209:18e03] Resetting plugins due to page load.
+2013-04-26 23:36:35.418 Omniture_Demo[71209:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 23:36:41.204 Omniture_Demo[71233:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 23:36:41.285 Omniture_Demo[71233:18e03] Resetting plugins due to page load.
+2013-04-26 23:36:41.902 Omniture_Demo[71233:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-26 23:39:07.006 Omniture_Demo[71346:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-26 23:39:07.136 Omniture_Demo[71346:18e03] Resetting plugins due to page load.
+2013-04-26 23:39:07.799 Omniture_Demo[71346:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:02:43.288 Omniture_Demo[78166:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:02:43.393 Omniture_Demo[78166:18e03] Resetting plugins due to page load.
+2013-04-27 00:02:44.139 Omniture_Demo[78166:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:08:08.969 Omniture_Demo[78561:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:08:09.055 Omniture_Demo[78561:18e03] Resetting plugins due to page load.
+2013-04-27 00:08:09.776 Omniture_Demo[78561:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:09:00.046 Omniture_Demo[78803:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:09:00.126 Omniture_Demo[78803:18e03] Resetting plugins due to page load.
+2013-04-27 00:09:00.690 Omniture_Demo[78803:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+Terminating in response to SpringBoard's termination.
+2013-04-27 00:09:47.003 Omniture_Demo[79070:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:09:47.108 Omniture_Demo[79070:18e03] Resetting plugins due to page load.
+2013-04-27 00:09:47.932 Omniture_Demo[79070:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:11:20.603 Omniture_Demo[79332:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:11:20.685 Omniture_Demo[79332:18e03] Resetting plugins due to page load.
+2013-04-27 00:11:21.344 Omniture_Demo[79332:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:15:34.060 Omniture_Demo[79706:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:15:34.160 Omniture_Demo[79706:18e03] Resetting plugins due to page load.
+2013-04-27 00:15:34.785 Omniture_Demo[79706:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:16:57.030 Omniture_Demo[79706:18e03] CDVWebViewDelegate: Navigation started when state=1
+2013-04-27 00:16:57.031 Omniture_Demo[79706:18e03] Failed to load webpage with error: (null)
+2013-04-27 00:23:42.951 Omniture_Demo[80382:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:23:43.030 Omniture_Demo[80382:18e03] Resetting plugins due to page load.
+2013-04-27 00:23:43.677 Omniture_Demo[80382:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:26:21.417 Omniture_Demo[80696:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:26:21.540 Omniture_Demo[80696:18e03] Resetting plugins due to page load.
+2013-04-27 00:26:22.194 Omniture_Demo[80696:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:31:56.528 Omniture_Demo[81091:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:31:56.625 Omniture_Demo[81091:18e03] Resetting plugins due to page load.
+2013-04-27 00:31:57.191 Omniture_Demo[81091:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:32:47.243 Omniture_Demo[81334:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:32:47.356 Omniture_Demo[81334:18e03] Resetting plugins due to page load.
+2013-04-27 00:32:47.924 Omniture_Demo[81334:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:33:23.530 Omniture_Demo[81384:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:33:23.641 Omniture_Demo[81384:18e03] Resetting plugins due to page load.
+2013-04-27 00:33:42.937 Omniture_Demo[81384:1b103] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2013-04-27 00:33:43.300 Omniture_Demo[81384:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:34:12.800 Omniture_Demo[81623:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:34:12.891 Omniture_Demo[81623:18e03] Resetting plugins due to page load.
+2013-04-27 00:34:16.404 Omniture_Demo[81623:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:34:43.777 Omniture_Demo[81663:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:34:43.871 Omniture_Demo[81663:18e03] Resetting plugins due to page load.
+2013-04-27 00:34:44.523 Omniture_Demo[81663:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:35:02.316 Omniture_Demo[81697:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:35:02.415 Omniture_Demo[81697:18e03] Resetting plugins due to page load.
+2013-04-27 00:35:02.654 Omniture_Demo[81697:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:35:23.891 Omniture_Demo[81923:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:35:23.992 Omniture_Demo[81923:18e03] Resetting plugins due to page load.
+2013-04-27 00:35:24.049 Omniture_Demo[81923:1b103] ADDRESPONSE - ADDING TO MEMORY ONLY: http://192.168.11.8:8080/target/target-script-min.js
+2013-04-27 00:35:24.297 Omniture_Demo[81923:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:36:02.447 Omniture_Demo[82161:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:36:02.529 Omniture_Demo[82161:18e03] Resetting plugins due to page load.
+2013-04-27 00:36:02.598 Omniture_Demo[82161:1b103] ADDRESPONSE - ADDING TO MEMORY ONLY: http://192.168.11.8:8080/target/target-script-min.js
+2013-04-27 00:36:02.842 Omniture_Demo[82161:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:43:39.754 Omniture_Demo[82838:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:43:39.847 Omniture_Demo[82838:18e03] Resetting plugins due to page load.
+2013-04-27 00:43:39.936 Omniture_Demo[82838:1b103] ADDRESPONSE - ADDING TO MEMORY ONLY: http://192.168.11.8:8080/target/target-script-min.js
+2013-04-27 00:43:40.136 Omniture_Demo[82838:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 00:43:40.474 Omniture_Demo[82838:18e03] device
+2013-04-27 00:43:40.524 Omniture_Demo[82838:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:49:21.992 Omniture_Demo[83036:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:49:22.096 Omniture_Demo[83036:18e03] Resetting plugins due to page load.
+2013-04-27 00:49:22.433 Omniture_Demo[83036:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 00:49:22.795 Omniture_Demo[83036:18e03] device
+2013-04-27 00:49:22.848 Omniture_Demo[83036:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:49:33.371 Omniture_Demo[83065:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:49:33.507 Omniture_Demo[83065:18e03] Resetting plugins due to page load.
+2013-04-27 00:49:33.762 Omniture_Demo[83065:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 00:49:34.200 Omniture_Demo[83065:18e03] device
+2013-04-27 00:49:34.250 Omniture_Demo[83065:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:51:06.272 Omniture_Demo[83348:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 00:51:06.375 Omniture_Demo[83348:18e03] Resetting plugins due to page load.
+2013-04-27 00:51:06.603 Omniture_Demo[83348:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 00:51:06.970 Omniture_Demo[83348:18e03] CDVPlugin class ADMS_Measurement_PhoneGap (pluginName: ADMS_Plugin) does not exist.
+2013-04-27 00:51:06.971 Omniture_Demo[83348:18e03] ERROR: Plugin 'ADMS_Plugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-04-27 00:51:06.971 Omniture_Demo[83348:18e03] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "ADMS_Plugin716384421",
+  "ADMS_Plugin",
+  "configureMeasurementWithReportSuiteIDsTrackingServer",
+  [
+    "RSID__",
+    "192.168.11.8:5000"
+  ]
+]
+2013-04-27 00:51:06.994 Omniture_Demo[83348:18e03] init
+2013-04-27 00:51:06.994 Omniture_Demo[83348:18e03] pagechange home
+2013-04-27 00:51:06.994 Omniture_Demo[83348:18e03] Received Event: deviceready
+2013-04-27 00:51:06.994 Omniture_Demo[83348:18e03] Received Event: deviceready
+2013-04-27 00:51:06.994 Omniture_Demo[83348:18e03] CDVPlugin class ADMS_Measurement_PhoneGap (pluginName: ADMS_Plugin) does not exist.
+2013-04-27 00:51:06.995 Omniture_Demo[83348:18e03] ERROR: Plugin 'ADMS_Plugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-04-27 00:51:06.995 Omniture_Demo[83348:18e03] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "ADMS_Plugin716384422",
+  "ADMS_Plugin",
+  "configureMeasurementWithReportSuiteIDsTrackingServer",
+  [
+    "RSID__",
+    "192.168.11.8:5000"
+  ]
+]
+2013-04-27 00:51:07.015 Omniture_Demo[83348:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 00:52:04.053 Omniture_Demo[83348:18e03] CDVPlugin class ADMS_Measurement_PhoneGap (pluginName: ADMS_Plugin) does not exist.
+2013-04-27 00:52:04.053 Omniture_Demo[83348:18e03] ERROR: Plugin 'ADMS_Plugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-04-27 00:52:04.053 Omniture_Demo[83348:18e03] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "ADMS_Plugin716384423",
+  "ADMS_Plugin",
+  "configureMeasurementWithReportSuiteIDsTrackingServer",
+  [
+    "RSID__",
+    "192.168.11.8:5000"
+  ]
+]
+2013-04-27 00:52:04.692 Omniture_Demo[83348:18e03] CDVPlugin class ADMS_Measurement_PhoneGap (pluginName: ADMS_Plugin) does not exist.
+2013-04-27 00:52:04.692 Omniture_Demo[83348:18e03] ERROR: Plugin 'ADMS_Plugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-04-27 00:52:04.692 Omniture_Demo[83348:18e03] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "ADMS_Plugin716384424",
+  "ADMS_Plugin",
+  "configureMeasurementWithReportSuiteIDsTrackingServer",
+  [
+    "RSID__",
+    "192.168.11.8:5000"
+  ]
+]
+2013-04-27 00:52:04.692 Omniture_Demo[83348:18e03] CDVPlugin class ADMS_Measurement_PhoneGap (pluginName: ADMS_Plugin) does not exist.
+2013-04-27 00:52:04.693 Omniture_Demo[83348:18e03] ERROR: Plugin 'ADMS_Plugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-04-27 00:52:04.709 Omniture_Demo[83348:18e03] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "ADMS_Plugin716384425",
+  "ADMS_Plugin",
+  "configureMeasurementWithReportSuiteIDsTrackingServer",
+  [
+    "RSID__",
+    "192.168.11.8:5000"
+  ]
+]
+2013-04-27 00:52:12.787 Omniture_Demo[83348:18e03] CDVPlugin class ADMS_Measurement_PhoneGap (pluginName: ADMS_Plugin) does not exist.
+2013-04-27 00:52:12.787 Omniture_Demo[83348:18e03] ERROR: Plugin 'ADMS_Plugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-04-27 00:52:12.788 Omniture_Demo[83348:18e03] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "ADMS_Plugin716384426",
+  "ADMS_Plugin",
+  "configureMeasurementWithReportSuiteIDsTrackingServer",
+  [
+    "RSID__",
+    "192.168.11.8:5000"
+  ]
+]
+2013-04-27 00:52:12.788 Omniture_Demo[83348:18e03] CDVPlugin class ADMS_Measurement_PhoneGap (pluginName: ADMS_Plugin) does not exist.
+2013-04-27 00:52:12.788 Omniture_Demo[83348:18e03] ERROR: Plugin 'ADMS_Plugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-04-27 00:52:12.788 Omniture_Demo[83348:18e03] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "ADMS_Plugin716384427",
+  "ADMS_Plugin",
+  "configureMeasurementWithReportSuiteIDsTrackingServer",
+  [
+    "RSID__",
+    "192.168.11.8:5000"
+  ]
+]
+2013-04-27 00:52:36.177 Omniture_Demo[83348:18e03] CDVPlugin class ADMS_Measurement_PhoneGap (pluginName: ADMS_Plugin) does not exist.
+2013-04-27 00:52:36.178 Omniture_Demo[83348:18e03] ERROR: Plugin 'ADMS_Plugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-04-27 00:52:36.178 Omniture_Demo[83348:18e03] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "ADMS_Plugin716384428",
+  "ADMS_Plugin",
+  "configureMeasurementWithReportSuiteIDsTrackingServer",
+  [
+    "RSID__",
+    "192.168.11.8:5000"
+  ]
+]
+2013-04-27 00:52:36.178 Omniture_Demo[83348:18e03] CDVPlugin class ADMS_Measurement_PhoneGap (pluginName: ADMS_Plugin) does not exist.
+2013-04-27 00:52:36.178 Omniture_Demo[83348:18e03] ERROR: Plugin 'ADMS_Plugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2013-04-27 00:52:36.178 Omniture_Demo[83348:18e03] -[CDVCommandQueue executePending] [Line 116] FAILED pluginJSON = [
+  "ADMS_Plugin716384429",
+  "ADMS_Plugin",
+  "configureMeasurementWithReportSuiteIDsTrackingServer",
+  [
+    "RSID__",
+    "192.168.11.8:5000"
+  ]
+]
+2013-04-27 01:01:41.518 Omniture_Demo[84357:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 01:01:41.723 Omniture_Demo[84357:18e03] Resetting plugins due to page load.
+2013-04-27 01:01:42.037 Omniture_Demo[84357:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 01:01:42.522 Omniture_Demo[84357:18e03] init
+2013-04-27 01:01:42.553 Omniture_Demo[84357:18e03] pagechange home
+2013-04-27 01:01:42.553 Omniture_Demo[84357:18e03] Received Event: pageChanged
+2013-04-27 01:01:42.573 Omniture_Demo[84357:18e03] Received Event: deviceready
+2013-04-27 01:01:42.681 Omniture_Demo[84357:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 01:04:22.665 Omniture_Demo[84709:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 01:04:22.767 Omniture_Demo[84709:18e03] Resetting plugins due to page load.
+2013-04-27 01:04:23.051 Omniture_Demo[84709:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 01:04:23.441 Omniture_Demo[84709:18e03] init
+2013-04-27 01:04:23.441 Omniture_Demo[84709:18e03] pagechange home
+2013-04-27 01:04:23.441 Omniture_Demo[84709:18e03] Received Event: pageChanged
+2013-04-27 01:04:23.442 Omniture_Demo[84709:18e03] Received Event: deviceready
+2013-04-27 01:04:23.483 Omniture_Demo[84709:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 01:09:06.588 Omniture_Demo[85101:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 01:09:06.683 Omniture_Demo[85101:18e03] Resetting plugins due to page load.
+2013-04-27 01:09:06.951 Omniture_Demo[85101:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 01:09:07.435 Omniture_Demo[85101:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 01:09:52.692 Omniture_Demo[85101:18e03] CDVWebViewDelegate: Navigation started when state=1
+2013-04-27 01:09:52.693 Omniture_Demo[85101:18e03] Failed to load webpage with error: (null)
+2013-04-27 01:17:58.964 Omniture_Demo[85612:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 01:17:59.060 Omniture_Demo[85612:18e03] Resetting plugins due to page load.
+2013-04-27 01:17:59.323 Omniture_Demo[85612:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 01:17:59.629 Omniture_Demo[85612:18e03] init
+2013-04-27 01:17:59.634 Omniture_Demo[85612:18e03] Received Event: pageChanged
+2013-04-27 01:17:59.634 Omniture_Demo[85612:18e03] Received Event: deviceready
+2013-04-27 01:17:59.861 Omniture_Demo[85612:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 01:18:24.519 Omniture_Demo[85612:18e03] CDVWebViewDelegate: Navigation started when state=1
+2013-04-27 01:18:24.519 Omniture_Demo[85612:18e03] Failed to load webpage with error: (null)
+2013-04-27 01:22:12.241 Omniture_Demo[86073:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 01:22:12.320 Omniture_Demo[86073:18e03] Resetting plugins due to page load.
+2013-04-27 01:22:12.575 Omniture_Demo[86073:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 01:22:13.054 Omniture_Demo[86073:18e03] init
+2013-04-27 01:22:13.062 Omniture_Demo[86073:18e03] Received Event: pageChanged
+2013-04-27 01:22:13.063 Omniture_Demo[86073:18e03] Received Event: deviceready
+2013-04-27 01:22:13.110 Omniture_Demo[86073:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 01:23:20.124 Omniture_Demo[86139:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 01:23:20.227 Omniture_Demo[86139:18e03] Resetting plugins due to page load.
+2013-04-27 01:23:20.632 Omniture_Demo[86139:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 01:23:20.948 Omniture_Demo[86139:18e03] init
+2013-04-27 01:23:20.949 Omniture_Demo[86139:18e03] Received Event: pageChanged
+2013-04-27 01:23:20.949 Omniture_Demo[86139:18e03] Received Event: deviceready
+2013-04-27 01:23:21.005 Omniture_Demo[86139:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 01:26:28.737 Omniture_Demo[86248:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 01:26:28.845 Omniture_Demo[86248:18e03] Resetting plugins due to page load.
+2013-04-27 01:26:29.067 Omniture_Demo[86248:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 01:26:29.378 Omniture_Demo[86248:18e03] init
+2013-04-27 01:26:29.378 Omniture_Demo[86248:18e03] Received Event: pageChanged
+2013-04-27 01:26:29.379 Omniture_Demo[86248:18e03] Received Event: deviceready
+2013-04-27 01:26:29.412 Omniture_Demo[86248:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 01:28:57.651 Omniture_Demo[86363:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 01:28:57.783 Omniture_Demo[86363:18e03] Resetting plugins due to page load.
+2013-04-27 01:28:58.040 Omniture_Demo[86363:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 01:28:58.347 Omniture_Demo[86363:18e03] init
+2013-04-27 01:28:58.350 Omniture_Demo[86363:18e03] Received Event: pageChanged
+2013-04-27 01:28:58.351 Omniture_Demo[86363:18e03] Received Event: deviceready
+2013-04-27 01:28:58.417 Omniture_Demo[86363:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 01:29:34.192 Omniture_Demo[86407:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 01:29:34.270 Omniture_Demo[86407:18e03] Resetting plugins due to page load.
+2013-04-27 01:29:34.599 Omniture_Demo[86407:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 01:29:34.915 Omniture_Demo[86407:18e03] init
+2013-04-27 01:29:34.915 Omniture_Demo[86407:18e03] Received Event: pageChanged
+2013-04-27 01:29:34.915 Omniture_Demo[86407:18e03] Received Event: deviceready
+2013-04-27 01:29:35.011 Omniture_Demo[86407:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 01:31:37.451 Omniture_Demo[86485:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 01:31:37.602 Omniture_Demo[86485:18e03] Resetting plugins due to page load.
+2013-04-27 01:31:37.865 Omniture_Demo[86485:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 01:31:38.232 Omniture_Demo[86485:18e03] init
+2013-04-27 01:31:38.249 Omniture_Demo[86485:18e03] Received Event: pageChanged
+2013-04-27 01:31:38.250 Omniture_Demo[86485:18e03] Received Event: deviceready
+2013-04-27 01:31:38.311 Omniture_Demo[86485:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html
+2013-04-27 01:37:36.409 Omniture_Demo[86705:18e03] Multi-tasking -> Device: YES, App: YES
+2013-04-27 01:37:36.493 Omniture_Demo[86705:18e03] Resetting plugins due to page load.
+2013-04-27 01:37:36.832 Omniture_Demo[86705:18e03] DEPRECATION NOTICE: The Connection ReachableViaWWAN return value of '2g' is deprecated as of Cordova version 2.6.0 and will be changed to 'cellular' in a future release. 
+2013-04-27 01:37:37.236 Omniture_Demo[86705:18e03] init
+2013-04-27 01:37:37.263 Omniture_Demo[86705:18e03] Received Event: pageChanged
+2013-04-27 01:37:37.263 Omniture_Demo[86705:18e03] Received Event: deviceready
+2013-04-27 01:37:37.398 Omniture_Demo[86705:18e03] Finished load of: file:///Users/Yeco/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/956A30C5-68D1-42AE-B03B-463219DEEE11/Omniture_Demo.app/www/src/index.html

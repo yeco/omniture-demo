@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:52
+-keep class com.clickstreamlearning.omniture_demo.Omniture_Demo { <init>(...); }
+
