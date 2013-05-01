@@ -1,14 +1,35 @@
 /*global ADMS:false */
-"use strict";
 var app = {
 	deviceReady: 0,
-	// Application Constructor
+	userID: "888",
+	omnitureRSID: "RSID__12313",
+	omnitureHost: "10.1.10.129:5000",
+
 	initialize: function() {
 		this.bindEvents();
-		console.log('init');
+		// console.log('init');
 	},
 	initializeUIElements: function() {},
 
+	initializeADMS: function (){
+		ADMS.setDebugLogging(true);
+
+		ADMS.configureMeasurementWithReportSuiteIDsTrackingServer(app.omnitureRSID, app.omnitureHost);
+		ADMS.setVisitorID(app.userID);
+		ADMS.setOfflineTrackingEnabled(true);
+
+		ADMS.setEvarToValue(1, app.userID);
+		ADMS.setPropToValue(1, app.userID);
+
+		ADMS.setEvarToValue(2, "D=c1");
+		ADMS.setPropToValue(2, "D=c1");
+
+		ADMS.setEvarToValue(3, "D=s_vi");
+		ADMS.setPropToValue(3, "D=s_vi");
+
+		ADMS.trackAppState("App Started");
+
+	},
 	// Bind Event Listeners
 	//
 	// Bind any events that are required on startup. Common events are:
@@ -16,9 +37,11 @@ var app = {
 	bindEvents: function() {
 		var self = this;
 		document.addEventListener('deviceready', this.onDeviceReady, false);
-		jQuery(document).on("pagechange", self.pageChanged);
-		jQuery(document).on("tap", 'button', self.buttonClicked);
-		jQuery(document).on("submit", 'form', self.formSubmitted);
+		jQuery(document).off("pagechange").on("pagechange", self.pageChanged);
+		jQuery(document).off("tap").on("tap", 'button', self.buttonClicked);
+		jQuery(document).off("submit").on("submit", 'form', self.formSubmitted);
+
+
 
 	},
 	// Event Handlers
@@ -27,9 +50,7 @@ var app = {
 	// function, we must explicity call 'app.receivedEvent(...);'
 
 	onDeviceReady: function() {
-		ADMS.configureMeasurementWithReportSuiteIDsTrackingServer("RSID__", "192.168.11.8:5000");
-		ADMS.trackAppState("App Started");
-
+		app.initializeADMS();
 		app.receivedEvent('deviceready');
 		app.deviceReady = 1;
 
@@ -46,7 +67,7 @@ var app = {
 			if (pageUrl === 'demo') {
 				ADMS.trackEventsWithContextData("login", {
 					"username": "John Doe",
-					"userID": 1
+					"userID": app.userID
 				});
 
 			} else {
@@ -71,10 +92,18 @@ var app = {
 
 		app.receivedEvent('formSubmitted');
 		var formData = $(evt.target).serializeArray();
-		var formDataJson = JSON.stringify(formData[0]);
+		var formDataJson = {};
+
+		for (var i = formData.length - 1; i >= 0; i--) {
+			var inputName = formData[i].name;
+			var	inputValue = formData[i].value;
+
+			formDataJson[inputName] = inputValue;
+		}
+
 
 		if (app.deviceReady) {
-			ADMS.trackAppStateWithContextData("Form Submited", formDataJson);
+			ADMS.trackEventsWithContextData("Form Submited", formDataJson);
 		}
 	},
 	receivedEvent: function(id) {

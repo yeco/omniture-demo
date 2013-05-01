@@ -1,4 +1,4 @@
-package com.adobe.PhoneGapPlugin;
+package com.clickstreamlearning.omniture_demo;
 
 import java.util.HashMap;
 import java.util.Hashtable;
